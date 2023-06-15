@@ -50,4 +50,4 @@ Exemple de réponse:
 
 Enfin, vous pouvez accéder à l'API publique grâce au lien suivant: 
 
-`http://ec2-52-47-158-117.eu-west-3.compute.amazonaws.com:8000/`
+`http://ec2-35-181-153-72.eu-west-3.compute.amazonaws.com:8000`
